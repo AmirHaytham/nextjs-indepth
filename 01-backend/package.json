@@ -1,0 +1,8 @@
+{
+  "name": "01-backend",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "demo": "node demo.mjs"
+  }
+}
